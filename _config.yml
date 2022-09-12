@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Licheng Lin"
 title_separator          : "-"
-name                     : &name "Licheng Lin 林立成"
+name                     : &name "Licheng Lin"
 description              : &description "Currently pursuing master degree at Huazhong University of Science and Technology"
 url                      : https://licheng-lin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Licheng Lin"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
