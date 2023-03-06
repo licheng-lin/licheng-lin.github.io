@@ -83,9 +83,9 @@ author:
   name             : "Licheng Lin"
   avatar           : "image.jpg"
   bio              : "Currently pursuing master degree at Huazhong University of Science and Technology"
-  location         : "WuHan"
+  location         : "Wuhan"
   employer         :
-  pubmed           : ""
+  pubmed           : # ""
   googlescholar    : ""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "licheng-lin"
+  github           : "https://github.com/licheng-lin"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : # ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : # ""
   vine             :
   weibo            :
   xing             :
