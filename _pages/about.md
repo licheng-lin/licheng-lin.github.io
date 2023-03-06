@@ -36,11 +36,10 @@ Skills
 
 Publications
 ======
-<p>
 * Anole: A Lightweight and Verifiable Learned-based Index for Time Range Query on Blockchain Systems<br>
   Jian Chang, Binhong Li, Jiang Xiao, **Licheng Lin**, and Hai Jin<br>
   The International Conference on Database Systems for Advanced Applications (DASFAA) 2023, Tianjin, to appear.
-</p>
+
 
 
 <!-- Talks
