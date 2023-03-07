@@ -1,7 +1,7 @@
 ---
 title: "Anole: A Lightweight and Verifiable Learned-based Index for Time Range Query on Blockchain Systems"
 collection: publications
-permalink: /publications/2023-03-07-paper-title-number-1
+permalink: /publication/2023-03-07-paper-title-number-1
 excerpt: 'In this paper, we present Anole: A Lightweight and Verifiable Learned-based Index for Time Range Query on Blockchain Systems.'
 date: 2023-03-07
 venue: 'DASFAA'
