@@ -2,7 +2,7 @@
 layout: archive
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "My research interests include Blockchain, Database, and Query optimization."
 author_profile: true
 redirect_from: 
   - /about/
