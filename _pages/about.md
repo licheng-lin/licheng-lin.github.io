@@ -8,6 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+My research interests include <i>Database</i>, <i>Query optimization</i>, and <i>Blockchain</i>.
 
 Education
 ======
