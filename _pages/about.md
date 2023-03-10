@@ -12,7 +12,7 @@ My research interests include <i>Database</i>, <i>Query optimization</i>, and <i
 
 Education
 ======
-* B.S. in Wuhan, Wuhan University of Science and Technology, 2018-2022
+* B.S. in Wuhan, Wuhan University of Technology, 2018-2022
 * M.S. in Wuhan, Huazhong University of Science and Technology, 2022-2025(expected)
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
