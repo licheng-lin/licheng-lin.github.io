@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently **seeking a potential Phd/RA position** concerning Database, Query Optimization. Previously, I obtained my Master degree from [Computer Science Department](https://cs.hust.edu.cn) at [Huazhong University of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Jiang Xiao](https://jxiao-hust.github.io/). I was a member of the [CGCL Lab](https://grid.hust.edu.cn) headed by [Prof. Hai Jin](https://scholar.google.com/citations?user=o02W0aEAAAAJ&hl=zh-CN&oi=ao). Prior to that, I obtained my Bachelor degree from [School of Computer Science and Artificial Intelligence](http://cst.whut.edu.cn/) at [Wuhan University of Technology](https://www.whut.edu.cn).
+I am currently **seeking a potential Phd/RA position** concerning Database, Query Optimization. Previously, I obtained my Master degree from [School of Computer Science and Technology](https://cs.hust.edu.cn) at [Huazhong University of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Jiang Xiao](https://jxiao-hust.github.io/). I was a member of the [CGCL Lab](https://grid.hust.edu.cn) headed by [Prof. Hai Jin](https://scholar.google.com/citations?user=o02W0aEAAAAJ&hl=zh-CN&oi=ao). Prior to that, I obtained my Bachelor degree from [School of Computer Science and Artificial Intelligence](http://cst.whut.edu.cn/) at [Wuhan University of Technology](https://www.whut.edu.cn).
 
 Research Interests
 ======
@@ -43,12 +43,9 @@ Publications
 
 Skills
 ======
-* Programming
-  * Rust, Java, C, Python, Bash, LaTex
-* Tools
-  * Vim, Git, MacOS, Linux, Docker
-* Language
-  * English (IELTS 7.0), Mandarin (Native)
+* **Programming**: Rust, Java, C, Python, Bash, LaTex
+* **Tools**: Vim, Git, MacOS, Linux, Docker
+* **Language**: English (IELTS 7.0), Mandarin (Native)
 
 
 
