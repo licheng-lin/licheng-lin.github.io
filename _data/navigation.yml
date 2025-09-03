@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://licheng-lin.github.io/files/CV_licheng.pdf
     
   # - title: "Guide"
   #   url: /markdown/
