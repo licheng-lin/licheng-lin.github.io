@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Licheng Lin"
-  avatar           : "image.jpg"
+  avatar           : "personal_photo.jpg"
   bio              : "Currently seeking a Phd/RA postion concerning Database, Query Optimization in Computer Science"
-  location         : "Wuhan"
+  location         : "Wuhan, China"
   employer         :
   pubmed           : # ""
   googlescholar    : "https://scholar.google.com/citations?user=_mG8fUgAAAAJ"
